@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Adam2022
 excerpt: 'This work is regarding a parallel implementation and several studies made on the efficiency of the Yeong-Torquato algorithm for material reconstruction.'
-date: 2022-12
+date: 2022-12-01
 venue: 'International Journal of Energy Research'
 paperurl: 'https://doi.org/10.1002/er.8578'
 citation: 'Adam A, Wang F, Li X. Efficient reconstruction and validation of heterogeneous microstructures for energy applications. Int J Energy Res. 2022; 46(15): 22757-22771. doi:10.1002/er.8578'
