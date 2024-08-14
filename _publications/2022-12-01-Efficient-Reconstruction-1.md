@@ -1,7 +1,7 @@
 ---
 title: "Efficient reconstruction and validation of heterogeneous microstructures for energy applications"
 collection: publications
-category: manuscripts
+category: manuscript
 permalink: /publication/Adam2022
 excerpt: 'This work is regarding a parallel implementation and several studies made on the efficiency of the Yeong-Torquato algorithm for material reconstruction.'
 date: 2022-12-01
