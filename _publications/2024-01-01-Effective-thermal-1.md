@@ -1,7 +1,7 @@
 ---
 title: "Effective thermal conductivity estimation using a convolutional neural network and its application in topology optimization"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: https://doi.org/10.1016/j.egyai.2023.100310
 excerpt: 'Fast estimation of effective thermal conductivity for 2D binary structures using convolutional neural networks applied in topology optimization test cases.'
 date: 2024-01-1
