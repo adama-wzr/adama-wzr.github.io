@@ -33,12 +33,29 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C/C++
+  * MATLAB/Octave
+  * Python
+  * LaTeX
+  * Bash
+* Software & Tools
+  * SolidWorks
+  * ANSYS
+  * SStarCCM+
+  * MAthematicaMaple
+  * ImageJ/Fiji
+  * ParaView
+* Parallel Programming
+  * GPU
+    * CUDA
+    * OpenACC
+  * CPU
+    * MPI
+    * OpenMP
+  * MATLAB Parallel Computing Toolbox
+  
+
 
 Publications
 ======
@@ -46,11 +63,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -61,3 +78,10 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Languages
+======
+  * Portuguese
+  * English
+  * Greek
+  * Spanish
