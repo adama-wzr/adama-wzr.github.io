@@ -1,13 +1,20 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a PhD Candidate at the University of Kansas, under the [Mechanical Engineering](https://me.ku.edu/) department. Through high-performance computing (HPC) and state of the art parallel computing techniques, I focus my research on the reconstruction, characterization, and optimization of porous media. More specifically, on continuum scale, there is an instrinsic and delicate relationship between the geometry of the pore-space and the particles which determines bulk properties. I am interested in physics-based simulation and characterization of bulk properties and their optimization through changes to the pore-space. A good example of one such model, from material reconstruction to topology optimization, can be found in this [publication](https://www.sciencedirect.com/science/article/pii/S2666546823000824).
+
+More broadly, below are some of the topics I have worked on:
+
+1. 3D Microstructure reconstruction via the Yeong-Torquato (Y-T) algorithm.
+1. Pore-size distribution estimation of digital media via erosion-dilation.
+1. Bulk property prediction (effective thermal conductivity, effective diffusivity, and permeability) in porous media via the finite volume method (FVM).
+1. Data-driven Convolutional Neural Networks for property prediction. 
 
 A data-driven personal website
 ======
@@ -17,12 +24,12 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Getting started
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+<!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
 Site-wide configuration
 ------
