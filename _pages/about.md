@@ -14,7 +14,17 @@ More broadly, below are some of the topics I have worked on:
 1. 3D Microstructure reconstruction via the Yeong-Torquato (Y-T) algorithm.
 1. Pore-size distribution estimation of digital media via erosion-dilation.
 1. Bulk property prediction (effective thermal conductivity, effective diffusivity, and permeability) in porous media via the finite volume method (FVM).
-1. Data-driven Convolutional Neural Networks for property prediction. 
+1. Data-driven Convolutional Neural Networks for property prediction.
+1. Gradient and non-gradient topology optimization.
+
+Long-Term Research Objectives
+------
+
+Here are broad long-term research objectives:
+
+2. Unified physics platform based on the FVM for generating large machine learning datasets.
+2. Computational framework for heat management material microstructure optimization with all modes of heat transfer.
+2. 
 
 A data-driven personal website
 ======
