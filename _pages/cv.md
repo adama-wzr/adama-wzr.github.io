@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Mechincal Engineering, University of Kansas, 2025 (expected)
-* B.S. in Mechnical Engineering, Rose-Hulman Institute of Technology, 2015
+* B.S. in Mechnical Engineering, Rose-Hulman Institute of Technology, 2019
 
 Work experience
 ======
