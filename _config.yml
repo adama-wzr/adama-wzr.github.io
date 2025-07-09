@@ -21,7 +21,7 @@ repository               : "adama-wzr/adama-wzr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "grad.png"
+  avatar           : "grad.jpg"
   name             : "Andre Adam"
   pronouns         : "he/him"  
   bio              : "I am a motivated PhD Candidate at the University of Kansas."
