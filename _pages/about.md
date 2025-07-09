@@ -25,5 +25,5 @@ Here are broad long-term research objectives:
 
 2. Unified physics platform based on the FVM for generating large machine learning datasets.
 2. Computational framework for thermal management material microstructure optimization with all modes of heat transfer.
-2. Similar framework for bulk ionic diffusion (with advection) for battery component and battery systems optimizations.
+2. Similar framework for bulk ionic diffusion for battery component and battery systems optimizations.
 2. Open source datasets and benchmarks for physics-related ML projects.
