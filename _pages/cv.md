@@ -14,22 +14,31 @@ Education
 * Ph.D in Mechincal Engineering, University of Kansas, 2025 (expected)
 * B.S. in Mechnical Engineering, Rose-Hulman Institute of Technology, 2019
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Research at Oak Ridge (GRO), Oak Ridge National Lab, TN (2025 - Present)
+  * Characterization of morphology and transport phenomena in energy-related materials.
+  * Novel modeling on composite cathode depletion and recharge in All-Solid-State Batteries.
+  * Dimensionality reduction and clustering analysis for automatic data-processing.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant, University of Kansas, KS (2020 - 2024)
+  * Computational research in reconstruction, characterization, and optimization of heterogeneous materials.
+  * Leveraging state-of-the-art parallel computing techniques in CPU and GPU to accelerate characterization and optimization in materials science.
+  * Computer-vision based physics informed ML models for microstructure optimization.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Visiting Researcher, Instituto de Pesquisa Tecnica (IPT), Sao Paulo, Brazil (May - August 2018)
+  * Optimization algorithm for custom truss design.
+  * Solutions for heavy debris containment in hydroelectric power plant.
+
+* Independent Research, Rose-Hulman Institute of Technology (2015 - 2019)
+  * Data collection and analysis on asteroid photometry (published in Minor Planet Bulletin).
+  * Research on time/space resolution effect on simulations of stress-wave propagation.
+  * Design of tabletop cheap Laser Doppler Velocimetry for basic use and teaching purposes.
+  * Designed and built SuperSID interferometer for studying solar weather via Sudden Ionospheric Disturbances.
+
+<!-- Teaching Experience
+======
+* Graduate Teaching Assistant, University of Kansas, KS (2020 - 2024) -->
   
 Skills
 ======
