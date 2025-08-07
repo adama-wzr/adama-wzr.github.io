@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -78,6 +78,8 @@ Research experience
 
 Publications
 ======
+Additional detail can be found under the "Publication" tab.
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -112,7 +114,7 @@ Awards
 
 Service and leadership
 ======
-* Active peer-reviewer for diverse academic journals.
+* Active peer-reviewer for diverse academic journals **(2022 - Present)**
 * RHIT Astronomical Society, President **(2017 - 2019)**
 * RHIT Astronomical Society, Treasurer **(2016 - 2017)**
 
