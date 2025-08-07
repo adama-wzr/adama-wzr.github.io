@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at the University of Kansas, under the [Mechanical Engineering](https://me.ku.edu/) department, currently working at Oak Ridge National Lab through a [GRO Fellowship](https://education.ornl.gov/gro/). Through high-performance computing (HPC) and state of the art parallel computing techniques, I focus my research on the reconstruction, characterization, and optimization of heterogeneous materials. More specifically, on the continuum scale, there is an instrinsic and delicate relationship between the geometry of the pore/particle space, which determines bulk properties. I am interested in physics-based simulation and characterization of bulk properties and their optimization through changes to the phase-space. A good example of one such model, from material reconstruction to topology optimization, can be found in this [publication](https://www.sciencedirect.com/science/article/pii/S2666546823000824).
+I am a PhD Candidate at the University of Kansas, under the [Mechanical Engineering](https://me.ku.edu/) department, currently working at Oak Ridge National Lab through a [GRO Fellowship](https://education.ornl.gov/gro/). Through high-performance computing (HPC) and state of the art parallel computing techniques, I focus my research on the reconstruction, characterization, and optimization of heterogeneous materials. On the continuum scale, there is an instrinsic and delicate relationship between the geometry of the pore/particle space, which determines bulk properties. I am interested in physics-based simulation and characterization of bulk properties and their optimization through changes to the phase-space. A good example of one such model, from material reconstruction to topology optimization, can be found in this [publication](https://www.sciencedirect.com/science/article/pii/S2666546823000824).
 
 More broadly, below are some of the topics I have worked on:
 
@@ -25,5 +25,5 @@ Here are broad long-term research objectives:
 
 2. Unified physics platform based on the FVM for generating large machine learning datasets.
 2. Computational framework for thermal management material microstructure optimization with all modes of heat transfer.
-2. Similar framework for bulk ionic diffusion for battery component and battery systems optimizations.
+2. Transport phenomen evaluation for energy-related material characterization and optimization.
 2. Open source datasets and benchmarks for physics-related ML projects.
