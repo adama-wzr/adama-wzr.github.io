@@ -25,5 +25,7 @@ Here are broad long-term research objectives:
 
 2. Unified physics platform based on the FVM for generating large machine learning datasets.
 2. Computational framework for thermal management material microstructure optimization with all modes of heat transfer.
-2. Transport phenomen evaluation for energy-related material characterization and optimization.
+2. Transport phenomena simulations for energy-related materials characterization and optimization.
 2. Open source datasets and benchmarks for physics-related ML projects.
+
+The aforementioned long-term objectives have a plethora of potential applications, and therefore a broad impact. The applications include, but are not limited to: geology, petroleoum engineering, geothermal power, nuclear power, batteries, fuel cells, supercapacitors, biomedical implants, carbon capture, energy storage, grid efficiency, HVAC, food science, among many others.
