@@ -12,7 +12,7 @@ redirect_from:
 Table of Contents
 ======
 
-This version of my CV is quite verbose, so a ToC is included below.
+This version of the CV is quite verbose, so a ToC is included below:
 
 1. [Education](#education)
 1. [Skills](#skills)
@@ -78,7 +78,7 @@ Research experience
 
 Publications
 ======
-Additional detail can be found under the "Publication" tab.
+More details can be found under the "Publications" tab.
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -109,7 +109,7 @@ Awards
 * GRO Fellow at Oak Ridge National Lab **(2025)**
 * Computational Awards MAT210007, MAT210014, and MAT230071 **(2021-2025)**
 * KU Summer Research Grant **(2024)**
-* Perry Family Award for service at the Oakley Observatory at Rose-Hulman Institute of Technology **(2019)**
+* Perry Family Award for service to the Oakley Observatory at Rose-Hulman Institute of Technology **(2019)**
 
 
 Service and leadership

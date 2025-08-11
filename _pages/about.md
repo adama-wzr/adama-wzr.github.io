@@ -28,4 +28,4 @@ Here are broad long-term research objectives:
 2. Transport phenomena simulations for energy-related materials characterization and optimization.
 2. Open source datasets and benchmarks for physics-related ML projects.
 
-The aforementioned long-term objectives have a plethora of potential applications, and therefore a broad impact. The applications include, but are not limited to: geology, petroleoum engineering, geothermal power, nuclear power, batteries, fuel cells, supercapacitors, biomedical implants, carbon capture, energy storage, grid efficiency, HVAC, food science, among many others.
+The aforementioned long-term objectives have a plethora of potential applications, and therefore broad impact. The applications include, but are not limited to: geology, petroleoum engineering, geothermal power, nuclear power, batteries, fuel cells, supercapacitors, biomedical implants, carbon capture, energy storage, grid efficiency, HVAC, food science, among many others.

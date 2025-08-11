@@ -15,6 +15,6 @@ In this study, a convolutional neural network (CNN) model for predicting effecti
 This model proves quite useful when applied in topology optimization tasks, especially efficient in comparison to conventional CFD models in such tasks. The prediction time is 3 - 5 orders of magnitude faster, and the small MAPEs don't have a negative effect in the overall optimization process. This work is a proof of concenpt that predictive models based on computer vision can be extremely accurate and reliable for optimization tasks.
 
 Two GitHub repositories stem from this work, as well as a dataset publication. They are as follows:
-* (Trained CNNs)[https://github.com/adama-wzr/CNN-Keff]
-* (Effective Thermal Conductivity Estimation)[https://github.com/adama-wzr/Keff-CFD]
-* (Dataset)[https://data.mendeley.com/datasets/454dsrmdyf/2]
+* [Trained CNNs](https://github.com/adama-wzr/CNN-Keff)
+* [Effective Thermal Conductivity Estimation](https://github.com/adama-wzr/Keff-CFD)
+* [Dataset](https://data.mendeley.com/datasets/454dsrmdyf/2)
