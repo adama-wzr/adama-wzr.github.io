@@ -1,6 +1,6 @@
 ---
 title: "ED-cPSD"
-excerpt: "Erosion-Dilation continous Phase-Size Distribution <br/><img src='/images/ED-cPSD.jpg'>"
+excerpt: "Erosion-Dilation continous Phase-Size Distribution <br/><img src='/images/ED-cPSD.png'>"
 collection: portfolio
 ---
 
