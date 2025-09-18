@@ -42,7 +42,7 @@ Skills
   * SolidWorks
   * ANSYS
   * SStarCCM+
-  * MAthematicaMaple
+  * Mathematica/Maple
   * ImageJ/Fiji
   * ParaView
 * Parallel Programming
@@ -117,6 +117,8 @@ Service and leadership
 * Active peer-reviewer for diverse academic journals **(2022 - Present)**
 * RHIT Astronomical Society, President **(2017 - 2019)**
 * RHIT Astronomical Society, Treasurer **(2016 - 2017)**
+* ACS, member - **active**
+* ASME, member - **inactive**
 
 
 Languages
