@@ -29,3 +29,13 @@ Here are broad long-term research objectives:
 2. Open source datasets and benchmarks for physics-related ML projects.
 
 The aforementioned long-term objectives have a plethora of potential applications, and therefore broad impact. The applications include, but are not limited to: geology, petroleoum engineering, geothermal power, nuclear power, batteries, fuel cells, supercapacitors, biomedical implants, carbon capture, energy storage, grid efficiency, HVAC, food science, among many others.
+
+
+Impact
+------
+
+To the stars and beyond!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=adama-wzr/CNN-Keff,adama-wzr/ED_cPSD,adama-wzr/Keff-CFD,adama-wzr/PixelBasedPermeability,adama-wzr/EffectiveDiffusivityFVM&type=Date)](https://www.star-history.com/#adama-wzr/CNN-Keff&adama-wzr/ED_cPSD&adama-wzr/Keff-CFD&adama-wzr/PixelBasedPermeability&adama-wzr/EffectiveDiffusivityFVM&Date)
+
+Check out other metrics on [Scholar](https://scholar.google.com/citations?user=aP_rDkMAAAAJ&hl=en&oi=ao) and [ResearchGate](www.researchgate.net/profile/Andre-Adam-2).
