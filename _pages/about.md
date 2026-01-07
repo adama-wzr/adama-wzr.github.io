@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate at the University of Kansas, under the [Mechanical Engineering](https://me.ku.edu/) department, currently working at Oak Ridge National Lab through a [GRO Fellowship](https://education.ornl.gov/gro/). Through high-performance computing (HPC) and state of the art parallel computing techniques, I focus my research on the reconstruction, characterization, and optimization of heterogeneous materials. On the continuum scale, there is an instrinsic and delicate relationship between the geometry of the pore/particle space, which determines bulk properties. I am interested in physics-based simulation and characterization of bulk properties and their optimization through changes to the phase-space. A good example of one such model, from material reconstruction to topology optimization, can be found in this [publication](https://www.sciencedirect.com/science/article/pii/S2666546823000824).
+Through high-performance computing (HPC) and state of the art parallel computing techniques, I focus my research on the reconstruction, characterization, and optimization of heterogeneous materials. On the continuum scale, there is an instrinsic and delicate relationship between the geometry of the pore/particle space, which determines bulk properties. I am interested in physics-based simulation and characterization of bulk properties and their optimization through changes to the phase-space. A good example of one such model, from material reconstruction to topology optimization, can be found in this [publication](https://www.sciencedirect.com/science/article/pii/S2666546823000824).
 
 More broadly, below are some of the topics I have worked on:
 

@@ -27,7 +27,7 @@ This version of the CV is quite verbose, so a ToC is included below:
 
 Education
 ======
-* Ph.D in Mechincal Engineering, University of Kansas, 2025 (expected)
+* Ph.D in Mechincal Engineering, University of Kansas, 2025
 * B.S. in Mechnical Engineering, Rose-Hulman Institute of Technology, 2019
 
 Skills
@@ -41,7 +41,7 @@ Skills
 * Software & Tools
   * SolidWorks
   * ANSYS
-  * SStarCCM+
+  * StarCCM+
   * Mathematica/Maple
   * ImageJ/Fiji
   * ParaView
@@ -56,7 +56,7 @@ Skills
 
 Research experience
 ======
-* Graduate Research at Oak Ridge (GRO), Oak Ridge National Lab, TN **(2025 - Present)**
+* Graduate Research at Oak Ridge (GRO), Oak Ridge National Lab, TN **(Jan - Nov 2025)**
   * Characterization of morphology and transport phenomena in energy-related materials.
   * Novel modeling on composite cathode depletion and recharge in All-Solid-State Batteries.
   * Dimensionality reduction and clustering analysis for automatic data-processing.
@@ -106,6 +106,7 @@ Talks
 
 Awards
 ======
+* PhD Defense with Honors **(2025)**
 * GRO Fellow at Oak Ridge National Lab **(2025)**
 * Computational Awards MAT210007, MAT210014, and MAT230071 **(2021-2025)**
 * KU Summer Research Grant **(2024)**

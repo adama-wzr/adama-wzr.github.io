@@ -24,11 +24,11 @@ author:
   avatar           : "grad.png"
   name             : "Andre Adam"
   pronouns         : "he/him"  
-  bio              : "PhD Candidate at the University of Kansas."
-  location         : "Lawrence, KS"
-  employer         : "University of Kansas"
+  bio              : "PhD"
+  location         : "Oak Ridge, TN"
+  employer         : "Unaffiliated"
   uri              : # URL
-  email            : "adama@ku.edu" 
+  email            : "andrefadam@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
