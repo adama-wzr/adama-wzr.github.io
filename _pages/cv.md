@@ -39,6 +39,7 @@ Skills
   * LaTeX
   * Bash
 * Software & Tools
+  * OpenFOAM
   * SolidWorks
   * ANSYS
   * StarCCM+
@@ -56,12 +57,16 @@ Skills
 
 Research experience
 ======
+* Founding R&D Engineer, A.S.K. Research LLC, IA **(Jan 2026 - Present)**
+  * Commercial CFD simulations for industry partners.
+  * Characterization of the design space for triply-periodic minimal surfaces.
+  * Transitioning porous media research to industry.
 * Graduate Research at Oak Ridge (GRO), Oak Ridge National Lab, TN **(Jan - Nov 2025)**
   * Characterization of morphology and transport phenomena in energy-related materials.
   * Novel modeling on composite cathode depletion and recharge in All-Solid-State Batteries.
   * Dimensionality reduction and clustering analysis for automatic data-processing.
 
-* Graduate Research Assistant, University of Kansas, KS **(2020 - 2024)**
+* Graduate Research Assistant, University of Kansas, KS **(2020 - 2025)**
   * Computational research in reconstruction, characterization, and optimization of heterogeneous materials.
   * Leveraging state-of-the-art parallel computing techniques in CPU and GPU to accelerate characterization and optimization in materials science.
   * Computer-vision based physics informed ML models for microstructure optimization.
