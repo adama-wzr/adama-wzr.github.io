@@ -36,6 +36,6 @@ Impact
 
 To the stars and beyond!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=adama-wzr/CNN-Keff,adama-wzr/ED_cPSD,adama-wzr/Keff-CFD,adama-wzr/PixelBasedPermeability,adama-wzr/EffectiveDiffusivityFVM&type=Date)](https://www.star-history.com/#adama-wzr/CNN-Keff&adama-wzr/ED_cPSD&adama-wzr/Keff-CFD&adama-wzr/PixelBasedPermeability&adama-wzr/EffectiveDiffusivityFVM&Date)
+[![Star History Chart](https://api.star-history.com/image?repos=adama-wzr/CNN-Keff%2Cadama-wzr/ED_cPSD%2Cadama-wzr/Keff-CFD%2Cadama-wzr/PixelBasedPermeability%2Cadama-wzr/EffectiveDiffusivityFVM%2Cadama-wzr/TPMS-Characterization&type=date&legend=top-left)](https://www.star-history.com/?repos=adama-wzr%2FCNN-Keff%2Cadama-wzr%2FED_cPSD%2Cadama-wzr%2FKeff-CFD%2Cadama-wzr%2FPixelBasedPermeability%2Cadama-wzr%2FEffectiveDiffusivityFVM%2Cadama-wzr%2FTPMS-Characterization&type=date&legend=top-left)
 
 Check out other metrics on [Scholar](https://scholar.google.com/citations?user=aP_rDkMAAAAJ&hl=en&oi=ao) and [ResearchGate](https://www.researchgate.net/profile/Andre-Adam-2).
