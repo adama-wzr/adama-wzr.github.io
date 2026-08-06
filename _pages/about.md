@@ -30,12 +30,7 @@ Here are broad long-term research objectives:
 
 The aforementioned long-term objectives have a plethora of potential applications, and therefore broad impact. The applications include, but are not limited to: geology, petroleoum engineering, geothermal power, nuclear power, batteries, fuel cells, supercapacitors, biomedical implants, carbon capture, energy storage, grid efficiency, HVAC, food science, among many others.
 
-
 Impact
 ------
-
-To the stars and beyond!
-
-[![Star History Chart](https://api.star-history.com/image?repos=adama-wzr/CNN-Keff%2Cadama-wzr/ED_cPSD%2Cadama-wzr/Keff-CFD%2Cadama-wzr/PixelBasedPermeability%2Cadama-wzr/EffectiveDiffusivityFVM%2Cadama-wzr/TPMS-Characterization&type=date&legend=top-left)](https://www.star-history.com/?repos=adama-wzr%2FCNN-Keff%2Cadama-wzr%2FED_cPSD%2Cadama-wzr%2FKeff-CFD%2Cadama-wzr%2FPixelBasedPermeability%2Cadama-wzr%2FEffectiveDiffusivityFVM%2Cadama-wzr%2FTPMS-Characterization&type=date&legend=top-left)
 
 Check out other metrics on [Scholar](https://scholar.google.com/citations?user=aP_rDkMAAAAJ&hl=en&oi=ao) and [ResearchGate](https://www.researchgate.net/profile/Andre-Adam-2).
