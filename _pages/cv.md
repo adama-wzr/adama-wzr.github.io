@@ -111,6 +111,7 @@ Talks
 
 Awards
 ======
+* NSF I-Corps Great Plains Region Fall 2027 **(2026)**
 * PhD Defense with Honors **(2025)**
 * GRO Fellow at Oak Ridge National Lab **(2025)**
 * Computational Awards MAT210007, MAT210014, and MAT230071 **(2021-2025)**
